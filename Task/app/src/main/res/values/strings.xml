@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MercadoPagoTask</string>
+    <string name="pagamento_result">Resultado Pagamento</string>
+    <string name="valor_da_transacao">Valor da transação</string>
+    <string name="descri_o_da_transacao">Descrição da transação</string>
+    <string name="pagar">Pagar</string>
+    <string name="url_de_pagamento">URL de pagamento aparecerá aqui</string>
+</resources>
