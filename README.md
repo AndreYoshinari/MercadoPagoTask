@@ -18,7 +18,7 @@ O app permite criar preferências de pagamento e gerar uma URL de pagamento.
 ### Passos
 1. Clone o repositório:
 
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/AndreYoshinari/mercadopagotask.git)
+   git clone https://github.com/AndreYoshinari/mercadopagotask.git
 
 3. Vá para Branch develop:
 
