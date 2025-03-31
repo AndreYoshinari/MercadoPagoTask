@@ -25,7 +25,7 @@ O app permite criar preferências de pagamento e gerar uma URL de pagamento.
 
 4. Execute o projeto em um dispositivo ou emulador.
 
-##🔧 Principais Componentes e Estrutura
+## 🔧 Principais Componentes e Estrutura
 
 ### PreferenceRequest
 
