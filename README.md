@@ -19,11 +19,14 @@ O app permite criar preferências de pagamento e gerar uma URL de pagamento.
 1. Clone o repositório:
     git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
-2. Abra o projeto no Android Studio.
+2. Vá para Branch develop:
+    git checkout develop
 
-3. Sincronize o projeto com o Gradle.
+3. Abra o projeto no Android Studio.
 
-4. Execute o projeto em um dispositivo ou emulador.
+4. Sincronize o projeto com o Gradle.
+
+5. Execute o projeto em um dispositivo ou emulador.
 
 ## 🔧 Principais Componentes e Estrutura
 
