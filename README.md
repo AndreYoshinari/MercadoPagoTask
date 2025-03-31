@@ -1,12 +1,12 @@
 # MercadoPagoTask
 Task prática Kotlin (SmartPOS e SDK)
 
-##📲 Visão Geral
+## 📲 Visão Geral
 
 Este é um aplicativo Android que demonstra a integração com a API do Mercado Pago para processamento de pagamentos. 
 O app permite criar preferências de pagamento e gerar uma URL de pagamento.
 
-##🚀 Como Rodar o Projeto
+## 🚀 Como Rodar o Projeto
 
 ### Pré-requisitos
 
