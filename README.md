@@ -17,16 +17,18 @@ O app permite criar preferências de pagamento e gerar uma URL de pagamento.
 
 ### Passos
 1. Clone o repositório:
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
-2. Vá para Branch develop:
-    git checkout develop
+   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/AndreYoshinari/mercadopagotask.git)
 
-3. Abra o projeto no Android Studio.
+3. Vá para Branch develop:
 
-4. Sincronize o projeto com o Gradle.
+   git checkout develop
 
-5. Execute o projeto em um dispositivo ou emulador.
+5. Abra o projeto no Android Studio.
+
+6. Sincronize o projeto com o Gradle.
+
+7. Execute o projeto em um dispositivo ou emulador.
 
 ## 🔧 Principais Componentes e Estrutura
 
